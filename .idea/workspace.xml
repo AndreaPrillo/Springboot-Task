@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecda1dbf-846b-47ef-99d2-d1db0fde8e7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/SPID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/USER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/HP/Desktop/springboot-demos",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -82,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655795973281</updated>
-      <workItem from="1655795976658" duration="7162000" />
+      <workItem from="1655795976658" duration="7781000" />
     </task>
     <servers />
   </component>
