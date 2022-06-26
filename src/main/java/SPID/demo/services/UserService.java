@@ -18,13 +18,11 @@ public class UserService {
         return  userRepository.getReferenceById(userId);
     }
 
-    public User editUser(long id,String email,String cardNum,String password,String username){
+    public User editUser(long id,User user){
         User userToBeEdited=userRepository.getReferenceById(id);
         if(userToBeEdited==null) return null;
-        userToBeEdited.setEmail(email);
-        userToBeEdited.setUsername(username);
-        userToBeEdited.setPassword(password);
-        userToBeEdited.setCardNo(cardNum);
+        userToBeEdited=user;
+        userToBeEdited.setId(id);
         return userRepository.save(userToBeEdited);
     }
 
